@@ -1,0 +1,20 @@
+* {
+    color: #ffff;
+}
+
+
+.cabecalho-moda {
+    background-color: #bb86fc;
+    border: solid #ffff;
+    
+}
+
+.celula {
+    background: #424250;
+    
+}
+
+.cabecalho-casa {
+    background-color: #00c4b4;
+    border: solid #ffff;
+}
